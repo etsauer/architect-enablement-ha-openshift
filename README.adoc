@@ -17,6 +17,7 @@ The Entire OpenShift and Kubernetes space is trending towards a world where we t
 
 === CASL Becoming More Consultant Friendly
 https://github.com/redhat-cop/casl-ansible/pull/237
+https://github.com/etsauer/casl-ansible/tree/docs-host-prep
 
 === LEARN APPLIER
 https://github.com/redhat-cop/openshift-applier
