@@ -1,6 +1,6 @@
 = HA/DR Architect Enablement
 
-== Our Story
+== Our Story (Current & Future)
 
 The Entire OpenShift and Kubernetes space is trending towards a world where we treat clusters as cattle. To that, we need to be training our customers to build towards production solutions that involve multiple clusters, and the ability to easily fail over between them.
 
@@ -15,15 +15,20 @@ The Entire OpenShift and Kubernetes space is trending towards a world where we t
 
 == CASL & Applier
 
-TODO
+=== CASL Becoming More Consultant Friendly
+https://github.com/redhat-cop/casl-ansible/pull/237
+
+=== LEARN APPLIER
+https://github.com/redhat-cop/openshift-applier
+http://v1.uncontained.io/playbooks/fundamentals/template_development_guide.html
 
 == LTM & GTM
 
-TODO
+Whiteboarding Session
 
 == External Storage Architectures
 
-TODO
+Whiteboarding Session & Open Discussion
 
 == Roadmap Discussion
 
@@ -32,4 +37,4 @@ Will discuss some product features that are coming that may help with this story
 == What we need to do
 
 - Research & Develop Smarter Global Load Balancing Strategies
-- A reference implementation of CRS serving multiple clusters
+- A reference implementation of CNS & CRS architectures
