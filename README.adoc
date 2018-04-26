@@ -14,6 +14,8 @@ The Entire OpenShift and Kubernetes space is trending towards a world where we t
   ** Cloud Provider Native storage
 * Roadmap
 
+Google Doc Architectures: https://docs.google.com/document/d/1urTWVdMAJKMRI-sFTScDeIu6I-2GsGW8kDooVb3tb9o/
+
 == Managing Multiple Clusters
 
 === CASL Becoming More Consultant Friendly
