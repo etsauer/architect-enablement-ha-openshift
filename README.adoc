@@ -21,7 +21,7 @@ The Entire OpenShift and Kubernetes space is trending towards a world where we t
 * https://github.com/redhat-cop/casl-ansible/pull/237
 * https://github.com/etsauer/casl-ansible/tree/docs-host-prep
 
-Also, [infra-ansible](https://github.com/redhat-cop/infra-ansible) can be used to manage things around OpenShift, including standing HAProxy, DNS Infrastructure, Satellite, and more...
+Also, link:https://github.com/redhat-cop/infra-ansible[infra-ansible] can be used to manage things around OpenShift, including standing HAProxy, DNS Infrastructure, Satellite, and more...
 
 * https://github.com/redhat-cop/infra-ansible/blob/master/playbooks/lb-vms.yml
 * https://github.com/redhat-cop/infra-ansible/blob/master/playbooks/provision-dns-server/main.yml
